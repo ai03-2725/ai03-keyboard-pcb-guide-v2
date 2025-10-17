@@ -1,0 +1,15 @@
+# Based on GitLab's KiCad gitignore, but includes BOM files and similar important production files
+# https://gitlab.com/gitlab-org/gitlab/-/blob/4ec848c3a18b90beb58f48c3a926a7c570df0ed5/vendor/gitignore/KiCad.gitignore
+
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+
+# Autorouter files (exported from Pcbnew)
+.dsn
+

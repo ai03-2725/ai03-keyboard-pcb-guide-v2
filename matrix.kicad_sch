@@ -622,7 +622,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 101.6 58.42 0)
 			(effects
 				(font
@@ -692,7 +692,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 76.2 67.31 0)
 			(effects
 				(font
@@ -780,7 +780,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 109.22 88.9 0)
 			(effects
 				(font
@@ -868,7 +868,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 109.22 67.31 0)
 			(effects
 				(font
@@ -954,7 +954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 68.58 80.01 0)
 			(effects
 				(font
@@ -1024,7 +1024,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 76.2 88.9 0)
 			(effects
 				(font
@@ -1110,7 +1110,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 101.6 80.01 0)
 			(effects
 				(font
@@ -1178,7 +1178,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Hotswap:MX-Hotswap-1U"
 			(at 68.58 58.42 0)
 			(effects
 				(font
